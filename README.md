@@ -6,14 +6,16 @@ My name is Clain, I am a recent graduate aspiring to become a Data Scientist, wi
 
 ## Table of Contents
   
-* [Portfolio Projects]()
+* [Portfolio Projects](https://github.com/Udotski02/Data-Analytics-Portfolio?tab=readme-ov-file#projects)
   
    * Python
       * [Recipe Site Traffic](https://github.com/Udotski02/Data-Analytics-Portfolio/tree/main/Recipe%20Site%20Traffic)
    * SQL
       * 
 
-* [Certificates]()
+* [Certificates](https://github.com/Udotski02/Data-Analytics-Portfolio?tab=readme-ov-file#certificates)
+
+* [Education](https://github.com/Udotski02/Data-Analytics-Portfolio?tab=readme-ov-file#education)
 
 ## Projects
 In this section you can find short summary of the listed projects for quick comprehension. For more details, please check out the documents in each respective project folder.
@@ -33,3 +35,7 @@ In the end, I presented a summary of my analysis, key findings, and recommendati
 [Data Scientist Associate](https://www.datacamp.com/certificate/DSA0010412845813) (2025) (Datacamp)
 
 [Data Literacy](https://www.datacamp.com/skill-verification/DL0030569765647) (2025) (Datacamp)
+
+## Education
+
+Bulacan State University, Malolos, Bulacan: BSBA Major in Business Economics, 2021-2025.
