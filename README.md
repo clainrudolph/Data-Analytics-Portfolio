@@ -8,7 +8,7 @@ Welcome to my portfolio!
 * [Portfolio Projects]()
   
    * Python
-      * [Recipe Site Traffic]()
+      * [Recipe Site Traffic](https://github.com/Udotski02/Data-Analytics-Portfolio/tree/main/Recipe%20Site%20Traffic)
    * SQL
       * 
 
