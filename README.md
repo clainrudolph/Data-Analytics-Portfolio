@@ -34,6 +34,8 @@ This project provides an end-to-end analysis of customer satisfaction at LuxurSt
 
 ## Certificates
 
+[Power BI Data Analyst Associate(PL-300)](https://learn.microsoft.com/api/credentials/share/en-us/ClainRudolphAsuncion-6351/673DB5320C8B0D14?sharingId=69BDCA2E5906EEC2) (2026) (Microsoft)
+
 [Data Scientist](https://www.datacamp.com/certificate/DS0027614235277) (2025) (Datacamp)
 
 [SQL Associate](https://www.datacamp.com/certificate/SQA0015917499637) (2025) (Datacamp)
