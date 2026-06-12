@@ -11,9 +11,9 @@ In my portfolio, I have included data projects that highlight both my technical 
 * [Portfolio Projects](https://github.com/Udotski02/Data-Analytics-Portfolio?tab=readme-ov-file#projects)
   
    * Python
-      * [Recipe Site Traffic](https://github.com/Udotski02/Data-Analytics-Portfolio/tree/main/Recipe%20Site%20Traffic)
+      * [Recipe Site Traffic](https://github.com/clainrudolph/Data-Analytics-Portfolio/blob/main/README.md#predicting-popular-recipes-for-website-homepage-recipe-site-traffic)
    * SQL
-      * [Hotel Operations](https://github.com/Udotski02/Data-Analytics-Portfolio/tree/main/Hotel%20Operations)
+      * [Hotel Operations](https://github.com/clainrudolph/Data-Analytics-Portfolio/blob/main/README.md#customer-satisfaction-analysis-hotel-operations)
 
 * [Certificates](https://github.com/Udotski02/Data-Analytics-Portfolio?tab=readme-ov-file#certificates)
 
@@ -69,3 +69,8 @@ This project provides an end-to-end analysis of customer satisfaction at LuxurSt
 ## Education
 
 Bulacan State University, Malolos, Bulacan: BSBA Major in Business Economics, 2021-2025.
+
+## Contacts
+
+* Linkedin: [Clain Rudolph Asuncion](www.linkedin.com/in/clain-rudolph-asuncion)
+* Email: rudolphasuncion02@gmail.com
