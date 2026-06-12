@@ -19,18 +19,40 @@ In my portfolio, I have included data projects that highlight both my technical 
 
 * [Education](https://github.com/Udotski02/Data-Analytics-Portfolio?tab=readme-ov-file#education)
 
-## Projects
+## Portfolio Projects
 In this section you can find short summary of the listed projects for quick comprehension. For more details, please check out the documents in each respective project folder.
 
-#### Predicting Popular Recipes for Website Homepage (Recipe Site Traffic)
+### Predicting Popular Recipes for Website Homepage (Recipe Site Traffic)
 
-This project analyzes recipe website traffic data to predict which recipes are likely to generate high user engagement. Using Python, the dataset was cleaned, validated, and prepared by handling missing values, standardizing categories, and addressing skewed distributions in nutritional variables. Exploratory data analysis was conducted to identify patterns across recipe categories, nutritional content, and serving sizes that influence traffic. To predict high-traffic recipes, several binary classification models were developed and compared, including Logistic Regression, Decision Tree, Random Forest, Support Vector Machine, and Gradient Boosting. Model performance was evaluated using accuracy and F1-score to determine the most reliable approach. The analysis ultimately provided insights into which recipe types attract the most engagement and offered data-driven recommendations to help the business prioritize high-performing content and improve website traffic.
+**Code:** [Recipe Site Traffic](https://github.com/clainrudolph/Data-Analytics-Portfolio/blob/main/Recipe%20Site%20Traffic/Recipe%20Site%20Traffic.ipynb)
+
+**Goal:** To predict which recipes will lead to high traffic and predict high traffic recipes 80% of the time. 
+
+**Description:** This project analyzes recipe website traffic data to predict which recipes are likely to generate high user engagement. Using Python, the dataset was cleaned, validated, and prepared by handling missing values, standardizing categories, and addressing skewed distributions in nutritional variables. Exploratory data analysis was conducted to identify patterns across recipe categories, nutritional content, and serving sizes that influence traffic. To predict high-traffic recipes, several binary classification models were developed and compared, including Logistic Regression, Decision Tree, Random Forest, Support Vector Machine, and Gradient Boosting. Model performance was evaluated using accuracy and F1-score to determine the most reliable approach. The analysis ultimately provided insights into which recipe types attract the most engagement and offered data-driven recommendations to help the business prioritize high-performing content and improve website traffic.
 
 In the end, I presented a summary of my analysis, key findings, and recommendations to the business, highlighting the most effective recipe categories and modeling approach that could be used to support content strategy and drive higher website engagement.
 
-#### Customer Satisfaction Analysis (Hotel Operations)
+**Skills:** Data Cleaning, Exploratory Data Analysis(EDA), Data Visualization, Outlier Detection, Data Transformation (Yeo-Johnson), Binary Classification Modeling, model evaluation metrics, and reporting insights.
+
+**Tools:** DataCamp DataLab (Python) – projects were completed in the online IDE and downloaded as Jupyter Notebook (.ipynb) files for upload to GitHub.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, Scikit-learn.
+
+**Results:** Logistic Regression emerged as the most reliable model with balanced accuracy and F1-scores, while Gradient Boosting showed strong potential as an alternative after tuning.
+
+### Customer Satisfaction Analysis (Hotel Operations)
+
+**Code:** [Hotel Operations](https://github.com/clainrudolph/Data-Analytics-Portfolio/blob/main/Hotel%20Operations/Hotel%20Operations.ipynb)
+
+**Goal:** To analyze customer feedback data to identify causes of dissatisfaction and highlight hotel branches and services that need improvement.
 
 This project provides an end-to-end analysis of customer satisfaction at LuxurStay Hotels, focusing on operational efficiency and service quality across branches. By cleaning and validating hotel branch data, the study ensures reliable insights before examining service response times to uncover delays impacting guest experiences. Special attention is given to Meal and Laundry services in EMEA and LATAM regions, where performance gaps are most evident. Branches with average ratings below the management benchmark of 4.5 are flagged as low-performing, highlighting areas in need of targeted improvements. Overall, the analysis delivers actionable recommendations to enhance service delivery, reduce response times, and restore customer satisfaction across the hotel chain.
+
+**Skills:** Data Management, Exploratory Data Analysis (EDA), Data Cleaning, Handling Missing Values, Grouping and Aggregating Data, Filtering and Subsetting, Calculating Averages and Maximums, and Rounding Numerical Values.
+
+**Tools:** DataCamp DataLab (SQL) – projects were completed in the online IDE and downloaded as Jupyter Notebook (.ipynb) files for upload to GitHub.
+
+**Technology:** SQL
 
 ## Certificates
 
