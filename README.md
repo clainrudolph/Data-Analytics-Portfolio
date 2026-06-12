@@ -4,7 +4,7 @@ Welcome to my portfolio!
 
 My name is Clain, I am a recent graduate aspiring to become a Data Analyst, with hands-on experience in Excel, Python, SQL, and Power BI through projects and personal practice. I enjoy analyzing data, uncovering patterns, and creating meaningful visualizations to support decision-making. Through this portfolio, I showcase my ability to apply data analytics techniques and build practical solutions while continuing to grow my skills in data science.
 
-In my portfolio, I have included data projects that highlight both my technical skills and analytical capability. You will find documents, workbooks, presentation files, and analyses created with SQL, Python, Jupyter Notebook, and PowerPoint. These projects demonstrate my ability to clean, organize, and analyze data, as well as present insights in a clear and visually engaging way. My work emphasizes turning complex datasets into accessible stories, enabling informed decision-making and showcasing the value of data-driven solutions.
+In my portfolio, I have included data projects that highlight both my technical skills and analytical capability. You will find documents, workbooks, presentation files, and analyses created with SQL, Python, Jupyter Notebook, Power BI, and PowerPoint. These projects demonstrate my ability to clean, organize, and analyze data, as well as present insights in a clear and visually engaging way. My work emphasizes turning complex datasets into accessible stories, enabling informed decision-making and showcasing the value of data-driven solutions.
 
 ## Table of Contents
   
