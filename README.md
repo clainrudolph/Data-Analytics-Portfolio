@@ -88,5 +88,5 @@ Bulacan State University, Malolos, Bulacan: BSBA Major in Business Economics, 20
 
 ## Contacts
 
-* Linkedin: [Clain Rudolph Asuncion](linkedin.com/in/clain-rudolph-asuncion)
+* Linkedin: [Clain Rudolph Asuncion](https://www.linkedin.com/in/clain-rudolph-asuncion)
 * Email: rudolphasuncion02@gmail.com
