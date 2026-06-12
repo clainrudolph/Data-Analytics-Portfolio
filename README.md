@@ -15,7 +15,7 @@ In my portfolio, I have included data projects that highlight both my technical 
    * SQL
       * [Hotel Operations](https://github.com/clainrudolph/Data-Analytics-Portfolio/blob/main/README.md#customer-satisfaction-analysis-hotel-operations)
    * Power BI
-      * [PBI Pinas Project]()
+      * [PBI Pinas Project](https://github.com/clainrudolph/Data-Analytics-Portfolio/blob/main/README.md#dpwh-infrastructure-projects-philippines-pbi-pinas-project)
 
 * [Certificates](https://github.com/Udotski02/Data-Analytics-Portfolio?tab=readme-ov-file#certificates)
 
