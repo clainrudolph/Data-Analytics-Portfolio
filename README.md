@@ -14,10 +14,14 @@ In my portfolio, I have included data projects that highlight both my technical 
       * [Recipe Site Traffic](https://github.com/clainrudolph/Data-Analytics-Portfolio/blob/main/README.md#predicting-popular-recipes-for-website-homepage-recipe-site-traffic)
    * SQL
       * [Hotel Operations](https://github.com/clainrudolph/Data-Analytics-Portfolio/blob/main/README.md#customer-satisfaction-analysis-hotel-operations)
+   * Power BI
+      * [PBI Pinas Project]()
 
 * [Certificates](https://github.com/Udotski02/Data-Analytics-Portfolio?tab=readme-ov-file#certificates)
 
 * [Education](https://github.com/Udotski02/Data-Analytics-Portfolio?tab=readme-ov-file#education)
+
+* [Contacts](https://github.com/clainrudolph/Data-Analytics-Portfolio?tab=readme-ov-file#contacts)
 
 ## Portfolio Projects
 In this section you can find short summary of the listed projects for quick comprehension. For more details, please check out the documents in each respective project folder.
@@ -46,13 +50,25 @@ In the end, I presented a summary of my analysis, key findings, and recommendati
 
 **Goal:** To analyze customer feedback data to identify causes of dissatisfaction and highlight hotel branches and services that need improvement.
 
-This project provides an end-to-end analysis of customer satisfaction at LuxurStay Hotels, focusing on operational efficiency and service quality across branches. By cleaning and validating hotel branch data, the study ensures reliable insights before examining service response times to uncover delays impacting guest experiences. Special attention is given to Meal and Laundry services in EMEA and LATAM regions, where performance gaps are most evident. Branches with average ratings below the management benchmark of 4.5 are flagged as low-performing, highlighting areas in need of targeted improvements. Overall, the analysis delivers actionable recommendations to enhance service delivery, reduce response times, and restore customer satisfaction across the hotel chain.
+**Description:** This project provides an end-to-end analysis of customer satisfaction at LuxurStay Hotels, focusing on operational efficiency and service quality across branches. By cleaning and validating hotel branch data, the study ensures reliable insights before examining service response times to uncover delays impacting guest experiences. Special attention is given to Meal and Laundry services in EMEA and LATAM regions, where performance gaps are most evident. Branches with average ratings below the management benchmark of 4.5 are flagged as low-performing, highlighting areas in need of targeted improvements. Overall, the analysis delivers actionable recommendations to enhance service delivery, reduce response times, and restore customer satisfaction across the hotel chain.
 
 **Skills:** Data Management, Exploratory Data Analysis (EDA), Data Cleaning, Handling Missing Values, Grouping and Aggregating Data, Filtering and Subsetting, Calculating Averages and Maximums, and Rounding Numerical Values.
 
 **Tools:** DataCamp DataLab (SQL) – projects were completed in the online IDE and downloaded as Jupyter Notebook (.ipynb) files for upload to GitHub.
 
 **Technology:** SQL
+
+### DPWH Infrastructure Projects Philippines (PBI Pinas Project)
+
+**Project Files:** [PBI Pinas Project](https://github.com/clainrudolph/Data-Analytics-Portfolio/tree/main/PBI%20Pinas%20Project)
+
+**Goal:** To provide stakeholders with clear visibility into DPWH Flood Control Projects by analyzing contractor performance, completion rates, turnaround times, and funding distribution using a curated dataset from the Power BI Pilipinas Community Challenge.
+
+**Description:** This project was developed as part of the Power BI Pilipinas Community Challenge, using a curated dataset provided by the organizers to showcase advanced data modeling and visualization skills. The dashboard, titled DPWH Infrastructure Projects Philippines, highlights Flood Control Projects (FCP) and related infrastructure initiatives through three main pages: Overview, Regional Analysis, and Contractor Insights. It presents key metrics such as total projects, approved budgets, completion rates, turnaround times (TAT), and contractor performance, while also surfacing anomalies like unusually fast TAT values and gaps such as unassigned projects worth ₱162.52bn.
+
+**Skills:** Data Modeling, DAX Measures, Data Transformation, Data Cleaning(Power Query), Visualization Design, and Analytical Storytelling.
+
+**Tools:** Power BI, Power Query
 
 ## Certificates
 
