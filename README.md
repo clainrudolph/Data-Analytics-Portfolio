@@ -72,7 +72,7 @@ In the end, I presented a summary of my analysis, key findings, and recommendati
 
 ## Certificates
 
-[Fabric Data Engineer Associate(DP-700)] (In Progress) (Microsoft)
+Fabric Data Engineer Associate(DP-700) (In Progress) (Microsoft)
 
 [Power BI Data Analyst Associate(PL-300)](https://learn.microsoft.com/api/credentials/share/en-us/ClainRudolphAsuncion-6351/673DB5320C8B0D14?sharingId=69BDCA2E5906EEC2) (2026) (Microsoft)
 
@@ -91,4 +91,4 @@ Bulacan State University, Malolos, Bulacan: BSBA Major in Business Economics, 20
 ## Contacts
 
 * Linkedin: [Clain Rudolph Asuncion](https://www.linkedin.com/in/clain-rudolph-asuncion)
-* Email: rudolphasuncion02@gmail.com
+* Email: rudolphasuncion@proton.me
